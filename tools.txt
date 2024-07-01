@@ -2,4 +2,4 @@ TOOLS :
 - VSCode/Sublime/Notepad++
 - Xampp
 - Github
-- Mysql Workbench
+- Mysql
